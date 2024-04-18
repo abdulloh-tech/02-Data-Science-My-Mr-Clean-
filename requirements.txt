@@ -1,0 +1,4 @@
+matplotlib
+seaborn
+requests
+bs4
