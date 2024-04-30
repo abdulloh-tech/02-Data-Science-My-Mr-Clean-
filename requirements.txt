@@ -2,3 +2,4 @@ matplotlib
 seaborn
 requests
 bs4
+pandas
